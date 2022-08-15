@@ -9,5 +9,3 @@ def dir_list(dir_path):
     return [root_dir, dirs, files]
 
 print(dir_list("C:\\Users\\Mauricio\\Desktop\\Prueba\\A"))
-
-#print(list(os.walk("C:\\Users")))
